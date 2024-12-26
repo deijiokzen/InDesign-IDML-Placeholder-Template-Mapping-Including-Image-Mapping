@@ -1,0 +1,14 @@
+C:\Users\sauda\source\repos\InDesign Automation\bin\Debug\net8.0\InDesign Automation.exe
+C:\Users\sauda\source\repos\InDesign Automation\bin\Debug\net8.0\InDesign Automation.deps.json
+C:\Users\sauda\source\repos\InDesign Automation\bin\Debug\net8.0\InDesign Automation.runtimeconfig.json
+C:\Users\sauda\source\repos\InDesign Automation\bin\Debug\net8.0\InDesign Automation.dll
+C:\Users\sauda\source\repos\InDesign Automation\bin\Debug\net8.0\InDesign Automation.pdb
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.AssemblyInfoInputs.cache
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.AssemblyInfo.cs
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.csproj.CoreCompileInputs.cache
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.dll
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\refint\InDesign Automation.dll
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.pdb
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\InDesign Automation.genruntimeconfig.cache
+C:\Users\sauda\source\repos\InDesign Automation\obj\Debug\net8.0\ref\InDesign Automation.dll
