@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InDesign Automation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc57a9a9d9f7049e468b219a9a3563e26afe597f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InDesign Automation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InDesign Automation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

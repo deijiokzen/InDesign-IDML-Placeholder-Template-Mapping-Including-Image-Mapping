@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign Automation.csproj": {}
+    "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign-IDML-Placeholder-Template-Mapping-Including-Image-Mapping\\InDesign Automation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign Automation.csproj": {
+    "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign-IDML-Placeholder-Template-Mapping-Including-Image-Mapping\\InDesign Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign Automation.csproj",
+        "projectUniqueName": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign-IDML-Placeholder-Template-Mapping-Including-Image-Mapping\\InDesign Automation.csproj",
         "projectName": "InDesign Automation",
-        "projectPath": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign Automation.csproj",
+        "projectPath": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign-IDML-Placeholder-Template-Mapping-Including-Image-Mapping\\InDesign Automation.csproj",
         "packagesPath": "C:\\Users\\sauda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\obj\\",
+        "outputPath": "C:\\Users\\sauda\\source\\repos\\InDesign Automation\\InDesign-IDML-Placeholder-Template-Mapping-Including-Image-Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

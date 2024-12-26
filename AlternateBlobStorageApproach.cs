@@ -11,7 +11,7 @@ namespace PlaceholderNamespace
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Alternative(string[] args)
         {
             Resume_Template_A();
         }
